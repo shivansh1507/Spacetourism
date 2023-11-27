@@ -1,7 +1,8 @@
 # Space Tourism
 
 Welcome to the Space Tourism React project! This repository contains the source code for a space tourism website. Explore the various directories to find different aspects of the project.
-The project is fully responsive, ensuring a seamless experience across different devices. [Website link](https://spacetourism-production.up.railway.app/SpaceTourism/) ![Project Screenshot](https://raw.githubusercontent.com/shivansh1507/Spacetourism/master/SpaceTourism.png)
+The project is fully responsive, ensuring a seamless experience across different devices. [Website link](https://spacetourism-production.up.railway.app/SpaceTourism/) 
+![Project Screenshot](https://raw.githubusercontent.com/shivansh1507/Spacetourism/master/SpaceTourism.png)
 
 ## Table of Contents
 
@@ -62,16 +63,10 @@ Contributions to the Space Tourism project are welcome! If you'd like to contrib
 4. Push to the branch: `$ git push origin feature/YourFeature`
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+5. **Contact**
+For any questions or inquiries, please contact me regarding this on : 
 
-## Contact
-
-For any questions or issues related to the project, please contact:
-
-> Shivansh Sharma
-> Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
-> GitHub: [shivansh1507](https://github.com/shivansh1507)
-
-Feel free to create an issue on GitHub for any project-related problems or suggestions.
+- > Name: Shivansh Sharma
+- > Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
+- > GitHub: [shivansh1507](https://github.com/shivansh1507).
