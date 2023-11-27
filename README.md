@@ -1,7 +1,8 @@
 # Space Tourism
 
 Welcome to the Space Tourism project! This is a CSS-intensive project that showcases the potential of modern web design techniques. The project is fully responsive, ensuring a seamless experience across different devices.
-www.ashu-singh.me/SpaceTourism/
+
+[Website link](https://spacetourism-production.up.railway.app/SpaceTourism/)
 ![Project Screenshot](https://raw.githubusercontent.com/Ashu0Singh/SpaceTourism/master/SpaceTourism.png)
 
 ## Table of Contents
@@ -27,8 +28,8 @@ Space Tourism is a web project that aims to provide an immersive experience for 
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repo `$ git clone https://github.com/Ashu0Singh/SpaceTourism.git`
-2. Open the folder in terminal `$ cd ./SpaceTourism`
+1. Clone the repo `$ git clone https://github.com/shivansh1507/Spacetourism.git`
+2. Open the folder in terminal `$ cd ./Spacetourism`
 3. Install all the packages `$ npm i`
 4. `$ npm start`
 
@@ -48,8 +49,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 For any queries or issues related to the project, please contact:
->Ashutosh Singh
-<br/>Email: [ashusingh1417@gmail.com](mailto:ashusingh1417@gmail.com)
-<br/>GitHub: [Ashu0Singh](https://github.com/Ashu0Singh)
+>Shivansh Sharma
+<br/>Email: [shivanshsharma1507@gmail.com](mailto:shivanshsharma1507@gmail.com)
+<br/>GitHub: [shivansh1507](https://github.com/shivansh1507)
 
 Please ensure to create an issue on GitHub for any project-related problems or suggestions.
